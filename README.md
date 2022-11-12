@@ -1,6 +1,6 @@
-# Building Block for Face Detection Feature 
+# The face-api.js Usage Demo
 
-This is a prototype for the face detection feature, which will be attached to the webcams of the overall web application afterwards.
+This is a prototype for the face detection feature, built using react.js and face-api.js.
 
 ## What to expect from this
 You can view the number of face detected from the webcam through the console log. 
@@ -9,7 +9,7 @@ You can view the number of face detected from the webcam through the console log
 
 ## How to run
 
-After switching to this branch, you can run the code on your browser by going to Hyper terminal, navigate to this project file and run the commands below:
+After navigating to the project directory, you can run the code on your browser by entering the commands below:
 
 ### `npm i`
 
